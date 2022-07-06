@@ -9,9 +9,9 @@
 <hr />
  <h2>Мои соц сети</h2>
  <ul>
-  <li><a href="https://facebook.com/"target="_blank">Facebook</a></li></ul>
+  <li><a href="https://m.facebook.com/profile.php/"target="_blank">Facebook</a></li></ul>
  <ul>
-  <li><a href="https://onoklassniki.com/"target="_blank">OK</a></li></ul>
+  <li><a href="https://odnoklassniki.com/"target="_blank">OK</a></li></ul>
 <hr />
  <h2>Мой адрес</h2>
  
