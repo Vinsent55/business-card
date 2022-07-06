@@ -9,9 +9,12 @@
 <hr />
  <h2>Мои соц сети</h2>
  <ul>
-  <li><a href="https://m.facebook.com/profile.php?=bookmarks"target="_blank">Facebook</a></li></ul>
+  <li><a href="https://m.facebook.com/profile.php?=bookmarks"target="_blank">Facebook</a></li>
+ </ul>
  <ul>
-  <li><a href="http://m.ok.ru/dk?st.cmd=userMain&tkn=838&_prevCmd=main"target="_blank">OK</a></li></ul>
+  <li><a href="http://m.ok.ru/dk?st.cmd=userMain&tkn=838&_prevCmd=main"target="_blank">OK</a></li>
+</ul>
+  
 <hr />
  <h2>Мой адрес</h2>
  
