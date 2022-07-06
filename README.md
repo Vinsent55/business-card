@@ -9,7 +9,7 @@
 <hr />
  <h2>Мои соц сети</h2>
  <ul>
-  <li><a href="https://m.facebook.com/profile.php/Виктор Викторов"target="_blank">Facebook</a></li></ul>
+  <li><a href="https://facebook.com/profile.php/Виктор Викторов"target="_blank">Facebook</a></li></ul>
  <ul>
   <li><a href="https://odnoklassniki.com/"target="_blank">OK</a></li></ul>
 <hr />
