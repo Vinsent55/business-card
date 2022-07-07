@@ -1,4 +1,5 @@
-![IMG-23e784d9025eb3b50a96d31ba033594c-V](https://user-images.githubusercontent.com/108808767/177822766-c390a5dd-963d-47b2-8306-151ffa4bbe6d.jpg)
+![IMG_20220707_211721](https://user-images.githubusercontent.com/108808767/177842188-682b91b6-30c7-402c-91ba-e381c8ee193c.jpg)
+
 <hr />
 <html>
  <body>
@@ -9,10 +10,10 @@
 <hr />
  <h2>Мои соц сети</h2>
  <ul>
-  <li><a href=""target="_blank">Facebook</a></li>
+  <li><h3>Facebook - Виктор Викторов</h3></li>
  </ul>
  <ul>
-  <li><a href=""target="_blank">OK</a></li>
+  <li><h3>OK - Виктор Викторов</h3></li>
 </ul>
   <hr />
  <h2>Мой адрес</h2>
