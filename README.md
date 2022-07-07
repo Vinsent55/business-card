@@ -9,20 +9,21 @@
 <hr />
  <h2>Мои соц сети</h2>
  <ul>
-  <li><a href="https://m.facebook.com/profile.php?=bookmarks"target="_blank">Facebook</a></li>
+  <li><a href=""target="_blank">Facebook</a></li>
  </ul>
  <ul>
-  <li><a href="http://m.ok.ru/dk?st.cmd=userMain&tkn=838&_prevCmd=main"target="_blank">OK</a></li>
+  <li><a href=""target="_blank">OK</a></li>
 </ul>
   <hr />
  <h2>Мой адрес</h2>
  <ul>
-  <h4>iндекс - 35341</hr>
+  <h4>iндекс - 35341</h4>
   <h4>Рiвненська-обл.</h4>
-  <h4>Рiвненський р-н</hr>
-  <h4>с.Городище</hr>
-  <h4>вул.Рiвненська</hr>
+  <h4>Рiвненський р-н</h4>
+  <h4>с.Городище</h4>
+  <h4>вул.Рiвненська</h4>
  <ul/>
+</body>
 
 
 
